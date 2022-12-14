@@ -1,1 +1,19 @@
+groups = int(input())
+nums = input()
+nums = nums.split()
 
+car_size = 0
+num_cars=1
+
+
+for i in nums:
+    if car_size + int(i) <= 4:
+        car_size= car_size + int(i)
+    else:
+        num_cars += 1
+        car_size= int(i)
+
+if car_size > 0:
+    print(num_cars)
+else:
+    print("0")
