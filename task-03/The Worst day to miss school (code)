@@ -1,3 +1,6 @@
+**user name:** @sainandanreddy71
+
+
 groups = int(input())
 nums = input()
 nums = nums.split()
