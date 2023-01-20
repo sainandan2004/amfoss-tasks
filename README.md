@@ -16,5 +16,5 @@
 | task-11    |   figma ninja                  |    Not Attempted till yet   |
 | task-12    |   bunny heist                  | Not Attempted till yet                                                    |
 | task-13    |   footfall counter             | Not Attempted till yet                                                      |
-| task-14    |   bandit                       | Not Attempted till yet                                           |
-| task-15    |   project euler                |   Not Attempted till yet                                                   |
+| task-14    |   bandit                       | in progress                                         |
+| task-15    |   project euler                |  in progress                                                  |
